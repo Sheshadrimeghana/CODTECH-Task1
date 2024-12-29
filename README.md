@@ -25,7 +25,7 @@ Subtraction: Subtracts the second number from the first.
 Multiplication: Multiplies the two numbers.
 Division: Divides the first number by the second.
 
-  OUTPUT:
+  
 ![Screenshot 2024-12-29 172819](https://github.com/user-attachments/assets/b79a3107-71f3-4902-964b-cddfbf02a060)
 
 
